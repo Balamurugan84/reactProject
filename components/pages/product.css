@@ -1,0 +1,83 @@
+.navba{
+    background-color:cornflowerblue;
+    width: 100%;
+    height: 50px;
+    border: 2px solid black;
+
+}
+
+.fon1{
+    float: left;
+    margin: 10px;
+    font-size: 19.7px;
+    color:gold;
+    cursor: pointer;
+}
+
+.navba ul{
+    margin: 0;
+    padding: o;
+    list-style: none;
+    line-height: 50px;
+}
+
+.navba ul li{
+    float: right;
+    text-decoration:none;
+    width: 130px;
+    text-align: center;
+    padding: 0px 16px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 0.5px;
+    cursor: pointer;
+} 
+
+
+.navba li:hover{
+    color: black;
+    /* opacity: 100%;
+    font-size: 24px; */
+
+}
+
+.fom2{
+    float:right;
+    color: transparent;
+    display: flex;
+    padding: 4px;
+    /* border: 1px solid wheat; */
+    /* border-radius: 10px; */
+  }
+
+
+.searchbox{
+    margin-top: 9px;
+    float: left;
+    margin-left: 100px;
+    
+}
+
+.in[type=text]{
+    border: none;
+    margin: 0;
+    padding: 7px 8px;
+    font-size: 15px;
+    border: 1px solid transparent;
+    border-radius: inherit;
+    width: 400px;
+}
+
+.btn2{
+    overflow: hidden;
+    width: 50px;
+    padding: 0;
+    margin: 0;
+    border: 1px solid transparent;
+    border-radius: inherit;
+    /* background: whitesmoke;  */
+    cursor: pointer;
+    opacity: 0.7;
+    
+}

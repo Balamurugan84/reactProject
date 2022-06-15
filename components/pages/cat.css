@@ -1,0 +1,4 @@
+.grid-con{
+    display: grid;
+    grid: 40px/ auto auto auto;
+}

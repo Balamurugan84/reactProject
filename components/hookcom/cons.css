@@ -1,0 +1,48 @@
+/* .fom{
+    text-align: justify;
+    padding-left: 380px;
+} */
+
+.con{
+    margin-top: 80px;
+    border: 1px solid black;
+    width: 500px;
+    height: 450px;
+    background-color: white;
+
+}
+
+.cons{
+    padding: 30px;
+}
+
+
+.put{
+    background-color: white;
+    width: 350px;
+    padding: 12px 20px;
+    margin: 4px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid black;
+}
+
+.btn3{
+    color: black;
+    width: 100px;
+    height: 30px;
+    background-color: #06C755;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+.p1{
+    font-weight: bold;
+    color: black;
+    cursor: pointer;
+    text-decoration-line: underline;
+}
+
+label{
+    color: black;
+}

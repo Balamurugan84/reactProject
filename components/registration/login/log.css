@@ -1,0 +1,52 @@
+/* body{
+    background-image:url('./2314950.jpg');
+    background-size: cover; 
+    background-color: plum;
+} */
+
+.box{
+    background-color: paleturquoise;
+    width: 300px;
+    height: 300px;
+}
+
+.box3{
+    background-color: paleturquoise;
+    width: 200px;
+    height: 150px;
+}
+
+
+.h3{
+    color: orange;
+}
+
+input{
+    /* background: rgba(0,0,0,0.6);
+    color: whitesmoke; */
+    background: whitesmoke;
+    color: black;
+    width: 200px;
+    height: 30px;
+    margin: 7px 0;
+    padding: 0 10px;
+    border-radius: 25px;
+}
+
+button{
+    padding: 10px;
+    width: 50%;
+    border: none;
+    cursor: pointer;
+    margin: 10px 0;
+    background-color: orange;
+    border-radius: 20px;
+}
+
+.font{
+    color: chocolate;
+}
+
+.fon{
+    color: orangered;
+}
